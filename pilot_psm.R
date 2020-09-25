@@ -9,7 +9,7 @@ library(survminer)
 require('survminer')
 
 ## check working directory
-setwd("C:/Users/Watanabe Yuta/Desktop/V‹KŒ¤‹†_•¶Œ£’²¸/New_Research/")
+setwd("C:/Users/user name/Desktop/ÂVâ€¹KÅ’Â¤â€¹â€ _â€¢Â¶Å’Â£â€™Â²ÂÂ¸/New_Research/")
 getwd()
 
 ## import dataset for PSM
